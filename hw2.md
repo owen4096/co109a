@@ -211,7 +211,7 @@ CHIP Mux4Way16 {
 </code></pre>
 
 ## Mux8Way16
-<img src="https://github.com/owen4096/co109a/blob/master/01/Mux8way16.png" width="500" height="400"  align=center /> 
+<img src="https://github.com/owen4096/co109a/blob/master/01/Mux8Way16.png" width="500" height="400"  align=center /> 
 <pre><code>
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
