@@ -69,7 +69,7 @@ CHIP RAM64 {
 </code></pre>
 
 ## RAM512
-<img src="https://github.com/owen4096/co109a/blob/master/03/b/RAM 512" width="500" height="400"  align=center /> 
+<img src="https://github.com/owen4096/co109a/blob/master/03/b/RAM 512.png" width="500" height="400"  align=center /> 
 <pre><code>
 // This file is part of the materials accompanying the book 
 // "The Elements of Computing Systems" by Nisan and Schocken, 
@@ -103,7 +103,7 @@ CHIP RAM512 {
 </code></pre>
 
 ## RAM4K
-<img src="https://github.com/owen4096/co109a/blob/master/03/b/RAM 4K" width="500" height="400"  align=center /> 
+<img src="https://github.com/owen4096/co109a/blob/master/03/b/RAM 4k.png" width="500" height="400"  align=center /> 
 <pre><code>
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
@@ -137,7 +137,7 @@ CHIP RAM4K {
 </code></pre>
 
 ## RAM16K
-<img src="https://github.com/owen4096/co109a/blob/master/03/b/RAM 16K" width="500" height="400"  align=center /> 
+<img src="https://github.com/owen4096/co109a/blob/master/03/b/RAM 16k.png" width="500" height="400"  align=center /> 
 <pre><code>
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
