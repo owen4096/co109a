@@ -1,7 +1,7 @@
 # 第六週
 
 ## Bit
-<img src="https://github.com/owen4096/co109a/blob/master/03/bit.png" width="500" height="400"  align=center /> 
+<img src="https://github.com/owen4096/co109a/blob/master/03/a/bit.png" width="500" height="400"  align=center /> 
 <pre><code>
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
@@ -26,7 +26,7 @@ CHIP Bit {
 </code></pre>
 
 ## Register
-<img src="https://github.com/owen4096/co109a/blob/master/03/Register.png" width="500" height="400"  align=center /> 
+<img src="https://github.com/owen4096/co109a/blob/master/03/a/Register.png" width="500" height="400"  align=center /> 
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -64,4 +64,4 @@ CHIP Register {
 </code></pre>
 
 ## DFF
-<img src="https://github.com/owen4096/co109a/blob/master/03/dff.png" width="500" height="400"  align=center /> 
+<img src="https://github.com/owen4096/co109a/blob/master/03/a/dff.png" width="500" height="400"  align=center /> 
