@@ -297,4 +297,4 @@ CHIP DMux8Way {
 </code></pre>
 
 ## 迪摩根定理
-<img src="https://github.com/owen4096/co109a/blob/master/01/not16.png" width="500" height="400"  align=center /> 
+<img src="https://github.com/owen4096/co109a/blob/master/01/迪摩根II.png" width="500" height="400"  align=center /> 
